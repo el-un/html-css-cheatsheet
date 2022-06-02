@@ -10,3 +10,12 @@ td {
 th {
     background-color: #EF9F9F;
 }
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+}
+
+.italic {
+    font-style: italic;
+}
